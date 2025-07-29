@@ -1,0 +1,4 @@
+Note :
+This project is designed as a home lab to demonstrate architectural principles using simple containerized static websites. 
+While the current setup focuses on clarity and resource efficiency, the same concepts can be extended to support more complex architectures involving dynamic applications, databases, and service orchestration platforms such as Kubernetes. 
+Due to hardware limitations in this environment, the lab remains intentionally lightweight and focused on core infrastructure design.
